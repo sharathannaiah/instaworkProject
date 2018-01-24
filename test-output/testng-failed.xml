@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Instawork Search Suite]">
+  <test name="Firefox Test(failed)">
+    <parameter name="browser" value="Firefox"/>
+    <classes>
+      <class name="com.test.insta.instawork.TC001_InstaworkSearchTest">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="endTest"/>
+          <include name="instaworkSearchTest"/>
+        </methods>
+      </class> <!-- com.test.insta.instawork.TC001_InstaworkSearchTest -->
+    </classes>
+  </test> <!-- Firefox Test(failed) -->
+</suite> <!-- Failed suite [Instawork Search Suite] -->

@@ -1,0 +1,84 @@
+2018-01-23 20:08:53 INFO  TC001_InstaworkSearchTest:46 - Creating object of Firefox
+2018-01-23 20:08:57 INFO  TC001_InstaworkSearchTest:57 - ==============Starting InstaworkGoogleSearch Test ===========
+2018-01-23 20:08:57 INFO  InstaworkSearchPage:47 - Navigating to : http://www.google.com/
+2018-01-23 20:08:59 INFO  InstaworkSearchPage:56 - Entered the input in Search TextBox and object is:- [[FirefoxDriver: firefox on MAC (12263d1f-4515-7c44-97a5-ced57374c7c0)] -> css selector: input[name='q']]
+2018-01-23 20:09:00 INFO  InstaworkSearchPage:58 - Clicked on Google Search button and object is:- [[FirefoxDriver: firefox on MAC (12263d1f-4515-7c44-97a5-ced57374c7c0)] -> css selector: input[name='btnK']]
+2018-01-23 20:09:00 INFO  InstaworkSearchPage:70 - URL is matching in first position
+2018-01-23 20:09:00 INFO  InstaworkSearchPage:71 - URL found in first position is - https://www.instawork.com/
+2018-01-23 20:09:00 INFO  TC001_InstaworkSearchTest:62 - ==============Finishing InstaworkGoogleSearch Test ===========
+2018-01-23 20:09:05 INFO  TC001_InstaworkSearchTest:40 - Creating object of chrome
+2018-01-23 20:09:06 INFO  TC001_InstaworkSearchTest:57 - ==============Starting InstaworkGoogleSearch Test ===========
+2018-01-23 20:09:06 INFO  InstaworkSearchPage:47 - Navigating to : http://www.google.com/
+2018-01-23 20:09:08 INFO  InstaworkSearchPage:56 - Entered the input in Search TextBox and object is:- [[ChromeDriver: chrome on MAC (3c57897dbe35e2882a2ffd1c9977b87a)] -> css selector: input[name='q']]
+2018-01-23 20:09:11 INFO  InstaworkSearchPage:58 - Clicked on Google Search button and object is:- [[ChromeDriver: chrome on MAC (3c57897dbe35e2882a2ffd1c9977b87a)] -> css selector: input[name='btnK']]
+2018-01-23 20:09:11 INFO  InstaworkSearchPage:70 - URL is matching in first position
+2018-01-23 20:09:11 INFO  InstaworkSearchPage:71 - URL found in first position is - https://www.instawork.com/
+2018-01-23 20:09:11 INFO  TC001_InstaworkSearchTest:62 - ==============Finishing InstaworkGoogleSearch Test ===========
+2018-01-23 20:15:35 INFO  TC001_InstaworkSearchTest:40 - Creating object of chrome
+2018-01-23 20:15:37 INFO  TC001_InstaworkSearchTest:57 - ==============Starting InstaworkGoogleSearch Test ===========
+2018-01-23 20:15:37 INFO  InstaworkSearchPage:47 - Navigating to : http://www.google.com/
+2018-01-23 20:15:39 INFO  InstaworkSearchPage:56 - Entered the input in Search TextBox and object is:- [[ChromeDriver: chrome on MAC (c4fc654b8c1fe82fa209e564406584cc)] -> css selector: input[name='q']]
+2018-01-23 20:15:41 INFO  InstaworkSearchPage:58 - Clicked on Google Search button and object is:- [[ChromeDriver: chrome on MAC (c4fc654b8c1fe82fa209e564406584cc)] -> css selector: input[name='btnK']]
+2018-01-23 20:15:41 INFO  InstaworkSearchPage:64 - URl to be matched - https://www.instawork.com/
+2018-01-23 20:15:41 INFO  InstaworkSearchPage:70 - URL is matching in first position
+2018-01-23 20:15:41 INFO  InstaworkSearchPage:71 - URL found in first position is - https://www.instawork.com/
+2018-01-23 20:15:41 INFO  TC001_InstaworkSearchTest:62 - ==============Finishing InstaworkGoogleSearch Test ===========
+2018-01-23 20:15:46 INFO  TC001_InstaworkSearchTest:46 - Creating object of Firefox
+2018-01-23 20:15:50 INFO  TC001_InstaworkSearchTest:57 - ==============Starting InstaworkGoogleSearch Test ===========
+2018-01-23 20:15:50 INFO  InstaworkSearchPage:47 - Navigating to : http://www.google.com/
+2018-01-23 20:15:52 INFO  InstaworkSearchPage:56 - Entered the input in Search TextBox and object is:- [[FirefoxDriver: firefox on MAC (b6945104-4c58-f44d-8f3d-0c248b57ac4b)] -> css selector: input[name='q']]
+2018-01-23 20:15:53 INFO  InstaworkSearchPage:58 - Clicked on Google Search button and object is:- [[FirefoxDriver: firefox on MAC (b6945104-4c58-f44d-8f3d-0c248b57ac4b)] -> css selector: input[name='btnK']]
+2018-01-23 20:15:53 INFO  InstaworkSearchPage:64 - URl to be matched - https://www.instawork.com/
+2018-01-23 20:15:53 INFO  InstaworkSearchPage:70 - URL is matching in first position
+2018-01-23 20:15:53 INFO  InstaworkSearchPage:71 - URL found in first position is - https://www.instawork.com/
+2018-01-23 20:15:53 INFO  TC001_InstaworkSearchTest:62 - ==============Finishing InstaworkGoogleSearch Test ===========
+2018-01-23 20:21:26 INFO  TC001_InstaworkSearchTest:40 - Creating object of chrome
+2018-01-23 20:21:29 INFO  TC001_InstaworkSearchTest:60 - ==============Starting InstaworkGoogleSearch Test ===========
+2018-01-23 20:21:29 INFO  InstaworkSearchPage:47 - Navigating to : http://www.google.com/
+2018-01-23 20:21:31 INFO  InstaworkSearchPage:56 - Entered the input in Search TextBox and object is:- [[ChromeDriver: chrome on MAC (a1a9a841f7d9c13869bc57f5854d9100)] -> css selector: input[name='q']]
+2018-01-23 20:21:34 INFO  InstaworkSearchPage:58 - Clicked on Google Search button and object is:- [[ChromeDriver: chrome on MAC (a1a9a841f7d9c13869bc57f5854d9100)] -> css selector: input[name='btnK']]
+2018-01-23 20:21:34 INFO  InstaworkSearchPage:64 - URl to be matched - https://www.instawork.com/
+2018-01-23 20:21:34 INFO  InstaworkSearchPage:70 - URL is matching in first position
+2018-01-23 20:21:34 INFO  InstaworkSearchPage:71 - URL found in first position is - https://www.instawork.com/
+2018-01-23 20:21:34 INFO  TC001_InstaworkSearchTest:65 - ==============Finishing InstaworkGoogleSearch Test ===========
+2018-01-23 20:21:39 INFO  TC001_InstaworkSearchTest:49 - Creating object of Firefox
+2018-01-23 20:21:42 INFO  TC001_InstaworkSearchTest:60 - ==============Starting InstaworkGoogleSearch Test ===========
+2018-01-23 20:21:42 INFO  InstaworkSearchPage:47 - Navigating to : http://www.google.com/
+2018-01-23 20:21:44 INFO  InstaworkSearchPage:56 - Entered the input in Search TextBox and object is:- [[FirefoxDriver: firefox on MAC (df0d3405-4949-9a4d-8081-c3225b98d5e3)] -> css selector: input[name='q']]
+2018-01-23 20:21:46 INFO  InstaworkSearchPage:58 - Clicked on Google Search button and object is:- [[FirefoxDriver: firefox on MAC (df0d3405-4949-9a4d-8081-c3225b98d5e3)] -> css selector: input[name='btnK']]
+2018-01-23 20:21:46 INFO  InstaworkSearchPage:64 - URl to be matched - https://www.instawork.com/
+2018-01-23 20:21:46 INFO  InstaworkSearchPage:70 - URL is matching in first position
+2018-01-23 20:21:46 INFO  InstaworkSearchPage:71 - URL found in first position is - https://www.instawork.com/
+2018-01-23 20:21:46 INFO  TC001_InstaworkSearchTest:65 - ==============Finishing InstaworkGoogleSearch Test ===========
+2018-01-23 20:22:56 INFO  TC001_InstaworkSearchTest:40 - Creating object of chrome
+2018-01-23 20:22:57 INFO  TC001_InstaworkSearchTest:57 - ==============Starting InstaworkGoogleSearch Test ===========
+2018-01-23 20:22:57 INFO  InstaworkSearchPage:47 - Navigating to : http://www.google.com/
+2018-01-23 20:23:00 INFO  InstaworkSearchPage:56 - Entered the input in Search TextBox and object is:- [[ChromeDriver: chrome on MAC (47b66eb96729589e43567f8d1981aa00)] -> css selector: input[name='q']]
+2018-01-23 20:23:03 INFO  InstaworkSearchPage:58 - Clicked on Google Search button and object is:- [[ChromeDriver: chrome on MAC (47b66eb96729589e43567f8d1981aa00)] -> css selector: input[name='btnK']]
+2018-01-23 20:23:03 INFO  InstaworkSearchPage:64 - URl to be matched - https://www.instawork.com/
+2018-01-23 20:23:03 INFO  InstaworkSearchPage:70 - URL is matching in first position
+2018-01-23 20:23:03 INFO  InstaworkSearchPage:71 - URL found in first position is - https://www.instawork.com/
+2018-01-23 20:23:03 INFO  TC001_InstaworkSearchTest:62 - ==============Finishing InstaworkGoogleSearch Test ===========
+2018-01-23 20:23:08 INFO  TC001_InstaworkSearchTest:46 - Creating object of Firefox
+2018-01-23 20:23:11 INFO  TC001_InstaworkSearchTest:57 - ==============Starting InstaworkGoogleSearch Test ===========
+2018-01-23 20:23:11 INFO  InstaworkSearchPage:47 - Navigating to : http://www.google.com/
+2018-01-23 20:23:14 INFO  InstaworkSearchPage:56 - Entered the input in Search TextBox and object is:- [[FirefoxDriver: firefox on MAC (7b16539a-6cfe-7244-ab34-b3703e899893)] -> css selector: input[name='q']]
+2018-01-23 20:23:15 INFO  InstaworkSearchPage:58 - Clicked on Google Search button and object is:- [[FirefoxDriver: firefox on MAC (7b16539a-6cfe-7244-ab34-b3703e899893)] -> css selector: input[name='btnK']]
+2018-01-23 20:23:15 INFO  InstaworkSearchPage:64 - URl to be matched - https://www.instawork.com/
+2018-01-23 20:23:15 INFO  InstaworkSearchPage:70 - URL is matching in first position
+2018-01-23 20:23:15 INFO  InstaworkSearchPage:71 - URL found in first position is - https://www.instawork.com/
+2018-01-23 20:23:15 INFO  TC001_InstaworkSearchTest:62 - ==============Finishing InstaworkGoogleSearch Test ===========
+2018-01-23 20:41:18 INFO  TC001_InstaworkSearchTest:43 - Creating object of Firefox
+2018-01-23 20:41:23 INFO  TC001_InstaworkSearchTest:53 - ==============Starting InstaworkGoogleSearch Test ===========
+2018-01-23 20:41:23 INFO  InstaworkSearchPage:47 - Navigating to : http://www.google.com/
+2018-01-23 20:41:25 INFO  InstaworkSearchPage:56 - Entered the input in Search TextBox and object is:- [[FirefoxDriver: firefox on MAC (5a00dd47-3597-5046-8a7f-9660a23f0909)] -> css selector: input[name='q']]
+2018-01-23 20:41:26 INFO  InstaworkSearchPage:58 - Clicked on Google Search button and object is:- [[FirefoxDriver: firefox on MAC (5a00dd47-3597-5046-8a7f-9660a23f0909)] -> css selector: input[name='btnK']]
+2018-01-23 20:41:26 INFO  InstaworkSearchPage:64 - URl to be matched - https://in.linkedin.com/company/instawork
+2018-01-23 20:41:28 INFO  TC001_InstaworkSearchTest:58 - ==============Finishing InstaworkGoogleSearch Test ===========
+2018-01-23 20:41:34 INFO  TC001_InstaworkSearchTest:39 - Creating object of chrome
+2018-01-23 20:41:35 INFO  TC001_InstaworkSearchTest:53 - ==============Starting InstaworkGoogleSearch Test ===========
+2018-01-23 20:41:35 INFO  InstaworkSearchPage:47 - Navigating to : http://www.google.com/
+2018-01-23 20:41:42 INFO  InstaworkSearchPage:56 - Entered the input in Search TextBox and object is:- [[ChromeDriver: chrome on MAC (52fd7fbd784b4a136f0520e7986d453b)] -> css selector: input[name='q']]
+2018-01-23 20:41:44 INFO  InstaworkSearchPage:58 - Clicked on Google Search button and object is:- [[ChromeDriver: chrome on MAC (52fd7fbd784b4a136f0520e7986d453b)] -> css selector: input[name='btnK']]
+2018-01-23 20:41:44 INFO  InstaworkSearchPage:64 - URl to be matched - https://in.linkedin.com/company/instawork
+2018-01-23 20:41:47 INFO  TC001_InstaworkSearchTest:58 - ==============Finishing InstaworkGoogleSearch Test ===========

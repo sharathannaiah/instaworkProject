@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Instawork Search Suite" duration-ms="29278" started-at="2018-01-23T15:11:18Z" finished-at="2018-01-23T15:11:47Z">
+    <groups>
+    </groups>
+    <test name="Firefox Test" duration-ms="10402" started-at="2018-01-23T15:11:18Z" finished-at="2018-01-23T15:11:29Z">
+      <class name="com.test.insta.instawork.TC001_InstaworkSearchTest">
+        <test-method status="PASS" signature="openBrowser(java.lang.String)[pri:0, instance:com.test.insta.instawork.TC001_InstaworkSearchTest@14bf9759]" name="openBrowser" is-config="true" duration-ms="4790" started-at="2018-01-23T20:41:18Z" finished-at="2018-01-23T20:41:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="instaworkSearchTest()[pri:0, instance:com.test.insta.instawork.TC001_InstaworkSearchTest@14bf9759]" name="instaworkSearchTest" duration-ms="5478" started-at="2018-01-23T20:41:23Z" finished-at="2018-01-23T20:41:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instaworkSearchTest -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.insta.instawork.TC001_InstaworkSearchTest@14bf9759]" name="endTest" is-config="true" duration-ms="98" started-at="2018-01-23T20:41:28Z" finished-at="2018-01-23T20:41:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.test.insta.instawork.TC001_InstaworkSearchTest -->
+    </test> <!-- Firefox Test -->
+    <test name="Chrome Test" duration-ms="13842" started-at="2018-01-23T15:11:34Z" finished-at="2018-01-23T15:11:47Z">
+      <class name="com.test.insta.instawork.TC001_InstaworkSearchTest">
+        <test-method status="PASS" signature="openBrowser(java.lang.String)[pri:0, instance:com.test.insta.instawork.TC001_InstaworkSearchTest@3159c4b8]" name="openBrowser" is-config="true" duration-ms="933" started-at="2018-01-23T20:41:34Z" finished-at="2018-01-23T20:41:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="instaworkSearchTest()[pri:0, instance:com.test.insta.instawork.TC001_InstaworkSearchTest@3159c4b8]" name="instaworkSearchTest" duration-ms="12781" started-at="2018-01-23T20:41:35Z" finished-at="2018-01-23T20:41:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instaworkSearchTest -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.insta.instawork.TC001_InstaworkSearchTest@3159c4b8]" name="endTest" is-config="true" duration-ms="124" started-at="2018-01-23T20:41:47Z" finished-at="2018-01-23T20:41:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.test.insta.instawork.TC001_InstaworkSearchTest -->
+    </test> <!-- Chrome Test -->
+  </suite> <!-- Instawork Search Suite -->
+</testng-results>
